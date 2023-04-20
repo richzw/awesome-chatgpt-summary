@@ -19,6 +19,7 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [GPT-3 Showcase](https://openai.com/showcase/)
 - [GPT-3 Model Card](https://modelcards.withgoogle.com/model/openai/gpt-3-zero-shot/1)
 - [GPT-4 blog](https://openai.com/blog/gpt-4/)
+- [OpenAI Plugins](https://platform.openai.com/docs/plugins/introduction)
 
 #### ChatGPT Community
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
@@ -36,7 +37,7 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
 
 
-### Access ChatGPT from other platforms
+### Access ChatGPT Tools
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
 - [WhatsApp bot](https://github.com/danielgross/whatsapp-gpt)
 - [RayCast Extension (unofficial)](https://github.com/abielzulio/chatgpt-raycast)
@@ -50,11 +51,11 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [Mac menubar app](https://github.com/vincelwt/chatgpt-mac)
 - [Multi-platform desktop app (Windows, Mac, Linux)](https://github.com/lencx/ChatGPT) powered by ChatGPT & Tauri
 - [Windows, Mac, Linux desktop app](https://github.com/sonnylazuardi/chatgpt-desktop)
-- [Jetbrains IDEs plugin](https://github.com/LiLittleCat/intellij-chatgpt)
-
+- [Jetbrain plugin Bito.ai](https://bito.ai/?_kx=cOkPlRdZNmxcTfcUf_SRpGwiefQwEBfNa1a_AYvwY9k%3D.Ysey7j)
 
 ### Tutorials
 - [Create your first app using ChatGPT](https://genez.io/blog/create-your-first-app-using-chatgpt/)
+- [gpt4all](https://github.com/nomic-ai/gpt4all)
 
 
 ### DevOps

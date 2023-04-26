@@ -71,4 +71,7 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [FlowGPT](https://flowgpt.com/)
 
+### Other awesomes
+- [Awesome Open GPT](https://github.com/EwingYangs/awesome-open-gpt)
+
 

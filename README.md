@@ -58,16 +58,16 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [gpt4all](https://github.com/nomic-ai/gpt4all)
 
 ### Tools
-🌟 AI 设计 -  http://Uizard.io
-🚀 AI 会议 -  http://tldv.io
-🌐 AI 网站 -  http://durable.co
-💡 AI 提示 -  http://wnr.ai
-📝 AI 博客 -  http://hashnode.com/ai
-🧩 AI 编辑 -  http://Cohesive.so
-🎨 AI 艺术 -  http://imgcreator.ai
-🎬 AI 剪辑 -  https://opus.pro
-📷 AI 图片 -  http://tryleap.ai
-📧 AI mail -  http://Chatgptforgmail.com
+- 🌟 AI 设计 -  http://Uizard.io
+- 🚀 AI 会议 -  http://tldv.io
+- 🌐 AI 网站 -  http://durable.co
+- 💡 AI 提示 -  http://wnr.ai
+- 📝 AI 博客 -  http://hashnode.com/ai
+- 🧩 AI 编辑 -  http://Cohesive.so
+- 🎨 AI 艺术 -  http://imgcreator.ai
+- 🎬 AI 剪辑 -  https://opus.pro
+- 📷 AI 图片 -  http://tryleap.ai
+- 📧 AI mail -  http://Chatgptforgmail.com
 
 ### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)

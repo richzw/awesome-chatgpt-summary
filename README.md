@@ -35,7 +35,7 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 
 ### Chrome Extensions
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
-
+- [Glarity](https://chrome.google.com/webstore/detail/chatgpt-glarity-summarize/cmnlolelipjlhfkhpohphpedmkfbobjc) 基于 ChatGPT 和 YouTube 字幕生成视频摘要
 
 ### Access ChatGPT Tools
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)

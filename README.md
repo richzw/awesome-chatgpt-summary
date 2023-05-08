@@ -36,6 +36,7 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 ### Chrome Extensions
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
 - [Glarity](https://chrome.google.com/webstore/detail/chatgpt-glarity-summarize/cmnlolelipjlhfkhpohphpedmkfbobjc) 基于 ChatGPT 和 YouTube 字幕生成视频摘要
+- [Perplexity](https://chrome.google.com/webstore/detail/perplexity-ask-ai/hlgbcneanomplepojfcnclggenpcoldo?hl=zh-CN) Perplexity is a superpower for your curiosity that lets you ask questions or get instant summaries while you browse the internet
 
 ### Access ChatGPT Tools
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)
@@ -68,6 +69,8 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - 🎬 AI 剪辑 -  https://opus.pro
 - 📷 AI 图片 -  http://tryleap.ai
 - 📧 AI mail -  http://Chatgptforgmail.com
+- [Cheetah](https://github.com/leetcode-mafia/cheetah) - Cheetah leverages Whisper for real-time audio transcription and GPT-4 for generating hints and solutions
+- [bookAI](https://bookai.chat) 
 
 ### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)

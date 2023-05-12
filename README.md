@@ -71,6 +71,7 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - 📧 AI mail -  http://Chatgptforgmail.com
 - [Cheetah](https://github.com/leetcode-mafia/cheetah) - Cheetah leverages Whisper for real-time audio transcription and GPT-4 for generating hints and solutions
 - [bookAI](https://bookai.chat) 
+- [Shap E](https://github.com/openai/shap-e)
 
 ### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)

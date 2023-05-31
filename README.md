@@ -69,7 +69,16 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - 🎬 AI 剪辑 -  https://opus.pro
 - 📷 AI 图片 -  http://tryleap.ai
 - 📧 AI mail -  http://Chatgptforgmail.com
+- [Code Debugger](http://debugcode.ai)
+- [AI Meeting Assistant](http://krisp.ai/ai-meeting-assistant/)
+- [ChatGPT Prompts](http://wnr.ai)
+- [Image to HTML and CSS]( http://fronty.com)
+- [Writing](http://textblaze.me/poonam)
+- [Text to Images]( http://images.ai)
+― [Blogs](http://hashnode.com/ai)
+- [Resume]( http://kickresume.com)
 - [Cheetah](https://github.com/leetcode-mafia/cheetah) - Cheetah leverages Whisper for real-time audio transcription and GPT-4 for generating hints and solutions
+- [Ecoute](https://github.com/SevaSk/ecoute) is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. 
 - [bookAI](https://bookai.chat) 
 - [Shap E](https://github.com/openai/shap-e)
 

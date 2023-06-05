@@ -80,7 +80,15 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [Cheetah](https://github.com/leetcode-mafia/cheetah) - Cheetah leverages Whisper for real-time audio transcription and GPT-4 for generating hints and solutions
 - [Ecoute](https://github.com/SevaSk/ecoute) is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. 
 - [bookAI](https://bookai.chat) 
-- [Shap E](https://github.com/openai/shap-e)
+- [Shap E](https://github.com/openai/shap-e) generate 3D model
+- [ClipMaker](https://aimart.app/products/clipmaker) 将 YouTube 视频自动剪辑短视频片段，用于抖音、TT
+- [Voicemaker](https://aimart.app/products/voicemaker) 万能声音生成器
+- [Rose](https://aimart.app/products/rose)数据研究好帮手
+- [SEO Writing AI](https://aimart.app/products/seo-writing-ai) SEO 文案生成器
+- [Icon Generator AI](https://aimart.app/products/icon-generator-ai)应用图标生成
+- [Reply](https://aimart.app/products/reply)AI 销售自动化
+- [Upword](https://aimart.app/products/upword)内容提炼
+
 
 ### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)

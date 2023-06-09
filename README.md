@@ -89,6 +89,13 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [Reply](https://aimart.app/products/reply)AI 销售自动化
 - [Upword](https://aimart.app/products/upword)内容提炼
 
+### Free Tools
+- [Forefront AI](chat.forefront.ai)  免费访问GPT-4的聊天机器人
+- [wnr.ai](wnr.ai ) GPT-4 免费
+- [poe](poe.com )
+- [perplexity.ai ](perplexity.ai ) 
+- [merlin.foyer.work ](merlin.foyer.work ) Chatgpt Plus
+
 
 ### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)

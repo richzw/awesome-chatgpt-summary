@@ -88,6 +88,25 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [Icon Generator AI](https://aimart.app/products/icon-generator-ai)应用图标生成
 - [Reply](https://aimart.app/products/reply)AI 销售自动化
 - [Upword](https://aimart.app/products/upword)内容提炼
+- http://Cohesive.so - Create magical content  
+- http://Krisp.ai - AI meeting assistant  
+- http://Humanornot.beehiiv.com - AI newsletter   
+- http://Writesparkle.ai - Optimize your workflow 
+- http://Perplexity.ai - ChatGPT on steroids   
+- http://Durable.co - Build websites with AI 
+- http://Stockimg.ai - Create images with AI 
+- http://Kickresume.com - AI resume builder 
+- http://Aivalley.ai - Latest AI Tools & Prompts 
+-  http://Gamma.app - AI presentation generator
+
+### Doc Tools
+- http://chatpdf.com
+- http://chatdoc.com
+- http://pdfgpt.io
+- http://pdf.ai
+- http://dify.ai
+- http://doclime.com
+- http://app.copilothub.ai
 
 ### Free Tools
 - [Forefront AI](chat.forefront.ai)  免费访问GPT-4的聊天机器人

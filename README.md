@@ -99,7 +99,7 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - http://Aivalley.ai - Latest AI Tools & Prompts 
 -  http://Gamma.app - AI presentation generator
 
-### Doc Tools
+### Document-related Tools
 - http://chatpdf.com
 - http://chatdoc.com
 - http://pdfgpt.io
@@ -107,6 +107,22 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - http://dify.ai
 - http://doclime.com
 - http://app.copilothub.ai
+- http://gamma.app    
+- http://beta.tome.app
+- http://beautiful.ai
+- http://pitch.com
+- http://decktopus.com
+- http://slidesai.io
+
+### Finance/investment Tools
+- http://public.com/alpha
+- http://finchat.io
+- http://trendspider.com
+- http://polygon.io
+- http://portfolioslab.com 
+- https://shandian.io/flashgpt
+- http://askstockgpt.com
+
 
 ### Free Tools
 - [Forefront AI](chat.forefront.ai)  免费访问GPT-4的聊天机器人

@@ -131,6 +131,14 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [perplexity.ai ](perplexity.ai ) 
 - [merlin.foyer.work ](merlin.foyer.work ) Chatgpt Plus
 
+### Learning Resource
+- [AI for Beginner](https://microsoft.github.io/AI-For-Beginners/?id=offline-access)
+- [GCP skill boost](https://www.cloudskillsboost.google/journeys/118)
+- [LangChain](https://leanpub.com/langchain/read#requirements-for-running-and-modifying-book-examples)
+- 
+
+### Other related 
+- [Vertex AI from Google](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
 
 ### DevOps
 - [ChatGPT Code Review](https://github.com/kxxt/chatgpt-action)

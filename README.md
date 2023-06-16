@@ -98,6 +98,16 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - http://Kickresume.com - AI resume builder 
 - http://Aivalley.ai - Latest AI Tools & Prompts 
 -  http://Gamma.app - AI presentation generator
+- http://Lovo.ai - AI语音生成器
+- http://Trinka.ai - AI编辑和语法
+- http://Wiseone.io - chatgpt小助手
+- http://Durable.co - AI搭网站   
+- http://Saga.so/ai - AI创意助理   
+- http://Stockimg.ai - AI创建图像
+- http://Aivalley.ai - 最新的AI工具和提示词
+- http://Hoppycopy.co -10倍速写电子邮件  
+- http://ChatPDF.com - 窥视文档
+- http://Gamma.app - AI做PPT
 
 ### Document-related Tools
 - http://chatpdf.com
@@ -114,7 +124,7 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - http://decktopus.com
 - http://slidesai.io
 
-### Finance/investment Tools
+### Finance/Investment Tools
 - http://public.com/alpha
 - http://finchat.io
 - http://trendspider.com
@@ -122,7 +132,7 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - http://portfolioslab.com 
 - https://shandian.io/flashgpt
 - http://askstockgpt.com
-
+- https://github.com/AI4Finance-Foundation/FinGPT (https://arxiv.org/abs/2306.06031)
 
 ### Free Tools
 - [Forefront AI](chat.forefront.ai)  免费访问GPT-4的聊天机器人
@@ -135,7 +145,7 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [AI for Beginner](https://microsoft.github.io/AI-For-Beginners/?id=offline-access)
 - [GCP skill boost](https://www.cloudskillsboost.google/journeys/118)
 - [LangChain](https://leanpub.com/langchain/read#requirements-for-running-and-modifying-book-examples)
-- 
+- [A guidance language for controlling large language models](https://github.com/microsoft/guidance)
 
 ### Other related 
 - [Vertex AI from Google](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)

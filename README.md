@@ -59,16 +59,37 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [gpt4all](https://github.com/nomic-ai/gpt4all)
 
 ### Tools
-- 🌟 AI 设计 -  http://Uizard.io
-- 🚀 AI 会议 -  http://tldv.io
-- 🌐 AI 网站 -  http://durable.co
-- 💡 AI 提示 -  http://wnr.ai
-- 📝 AI 博客 -  http://hashnode.com/ai
-- 🧩 AI 编辑 -  http://Cohesive.so
-- 🎨 AI 艺术 -  http://imgcreator.ai
-- 🎬 AI 剪辑 -  https://opus.pro
-- 📷 AI 图片 -  http://tryleap.ai
-- 📧 AI mail -  http://Chatgptforgmail.com
+- AI 设计 -  http://Uizard.io
+- AI 会议 -  http://tldv.io
+- AI 网站 -  http://durable.co
+- AI 提示 -  http://wnr.ai
+- AI 博客 -  http://hashnode.com/ai
+- AI 编辑 -  http://Cohesive.so
+- AI 艺术 -  http://imgcreator.ai
+- AI 剪辑 -  https://opus.pro
+- AI 图片 -  http://tryleap.ai
+- AI mail -  http://Chatgptforgmail.com
+- http://Emailmagic.ai - 1秒自动生成邮件回复，或一个指令快速生成邮件的工具
+- http://60sec.site - 在60秒内创建网站
+- http://Eightify.app - 1分钟看完1小时的视频？YouTube视频摘要可以做到
+- http://Scisummary.com/ai - 读长文神器：科学文章摘要工具
+- http://Vizologi.com - 商业计划工具
+- http://Krisp.ai - AI会议助手
+- http://Aiseo.ai - AI写作工具
+- http://Gptgo.ai - 使用ChatGPT的搜索引擎
+- http://Scribblediffusion.com - 将草图转换为图像的工具
+- http://Ai.nero.com - AI图像增强器
+- http://Magicbrief.com - 故事板和广告的AI工具
+- http://Chatling.ai - 自定义AI个人聊天机器人
+- http://Rows.com/ai - 数据分析和Excel的AI工具
+- http://Roomgpt.io - 使用AI重新设计房间的工具
+- http://Trinka.ai - 提升学术写作的工具
+- http://Genmo.ai - 从文本创建视频的工具
+- http://Lovo.ai - AI语音生成器
+- http://Meetcody.ai - 商务助手
+- http://Gitmind.com - 头脑风暴工具
+- http://Translate.video - 一键翻译视频
+- http://2short.ai - 快速创建短视频的工具
 - [Code Debugger](http://debugcode.ai)
 - [AI Meeting Assistant](http://krisp.ai/ai-meeting-assistant/)
 - [ChatGPT Prompts](http://wnr.ai)

@@ -167,6 +167,7 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [GCP skill boost](https://www.cloudskillsboost.google/journeys/118)
 - [LangChain](https://leanpub.com/langchain/read#requirements-for-running-and-modifying-book-examples)
 - [A guidance language for controlling large language models](https://github.com/microsoft/guidance)
+- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
 
 ### Other related 
 - [Vertex AI from Google](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)

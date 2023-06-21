@@ -20,6 +20,7 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [GPT-3 Model Card](https://modelcards.withgoogle.com/model/openai/gpt-3-zero-shot/1)
 - [GPT-4 blog](https://openai.com/blog/gpt-4/)
 - [OpenAI Plugins](https://platform.openai.com/docs/plugins/introduction)
+- [State of GPT](https://build.microsoft.com/en-US/sessions/db3f4859-cd30-4445-a0cd-553c3304f8e2)
 
 #### ChatGPT Community
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
@@ -129,7 +130,25 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - http://Hoppycopy.co -10倍速写电子邮件  
 - http://ChatPDF.com - 窥视文档
 - http://Gamma.app - AI做PPT
-
+-  AI广告工具和数据大屏 - http://Magicbrief.com
+- 定制AI聊天机器人 - http://Chatling.ai
+- AI版的Excel - http://Rows.com/ai
+- AI室内设计 - http://Roomgpt.io
+- 总结科学论文 - http://Scisummary.com/ai
+- 升级您的学术写作 - http://Trinka.ai
+- 从文字中创建视频 - http://Genmo.ai
+-  在线约会助理 - http://Datingai.pro
+- 生成AI表格网站 - http://Feathery.io
+- 业务助理 - http://Meetcody.ai
+-  AI Voice Generator - http://lovo.ai
+-  AI Website Builder - http://10web.io
+-  Picture magic - http://magicstudio.com
+-  Text-to-video - http://heygen.com
+-  Presentations - http://tome.app
+-  Stock photos - http://lucidpic.com
+-  Text paraphraser - http://paraphrasingtool.ai
+-  Business ideas - http://amilliondollaridea.com
+  
 ### Document-related Tools
 - http://chatpdf.com
 - http://chatdoc.com

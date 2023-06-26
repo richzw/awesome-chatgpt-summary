@@ -130,7 +130,7 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - http://Hoppycopy.co -10倍速写电子邮件  
 - http://ChatPDF.com - 窥视文档
 - http://Gamma.app - AI做PPT
--  AI广告工具和数据大屏 - http://Magicbrief.com
+- AI广告工具和数据大屏 - http://Magicbrief.com
 - 定制AI聊天机器人 - http://Chatling.ai
 - AI版的Excel - http://Rows.com/ai
 - AI室内设计 - http://Roomgpt.io
@@ -148,6 +148,7 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 -  Stock photos - http://lucidpic.com
 -  Text paraphraser - http://paraphrasingtool.ai
 -  Business ideas - http://amilliondollaridea.com
+- http://tactiq.io — Google Meet、Zoom、MS Teams 和 Webex 会议的实时笔记
   
 ### Document-related Tools
 - http://chatpdf.com

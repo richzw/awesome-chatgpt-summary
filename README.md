@@ -183,11 +183,12 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [merlin.foyer.work ](merlin.foyer.work ) Chatgpt Plus
 
 ### Learning Resource
-- [AI for Beginner](https://microsoft.github.io/AI-For-Beginners/?id=offline-access)
+- [AI for Beginner - Microsoft](https://microsoft.github.io/AI-For-Beginners/?id=offline-access)
 - [GCP skill boost](https://www.cloudskillsboost.google/journeys/118)
-- [LangChain](https://leanpub.com/langchain/read#requirements-for-running-and-modifying-book-examples)
-- [A guidance language for controlling large language models](https://github.com/microsoft/guidance)
+- [LangChain Book](https://leanpub.com/langchain/read#requirements-for-running-and-modifying-book-examples)
+- [A guidance language for controlling large language models - Microsoft](https://github.com/microsoft/guidance)
 - [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
+- [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/Lessons/lesson1.html)
 
 ### Other related 
 - [Vertex AI from Google](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)

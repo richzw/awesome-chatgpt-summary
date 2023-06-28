@@ -2,7 +2,7 @@
 
 -------
 
-Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
+Collection of awesome tools, demos, and docs for ChatGPT, GPT-3, and GPT-4
 
 ![](./chatgpt.png)
 
@@ -26,6 +26,15 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
 - [OpenAI YouTube Channel](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A)
 - [OpenAI GitHub](https://github.com/openai)
+
+### Learning Resource
+- [AI for Beginner - Microsoft](https://microsoft.github.io/AI-For-Beginners/?id=offline-access)
+- [GCP skill boost](https://www.cloudskillsboost.google/journeys/118)
+- [LangChain Book](https://leanpub.com/langchain/read#requirements-for-running-and-modifying-book-examples)
+- [A guidance language for controlling large language models - Microsoft](https://github.com/microsoft/guidance)
+- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
+- [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/Lessons/lesson1.html)
+- [动手学强化学习](https://hrl.boyuai.com/chapter/intro)
 
 ### API tools
 - [Unofficial API in Python](https://github.com/acheong08/ChatGPT)
@@ -181,14 +190,6 @@ Collection of awesome tools, demos, docs for ChatGPT, GPT-3 and GPT-4
 - [poe](poe.com )
 - [perplexity.ai ](perplexity.ai ) 
 - [merlin.foyer.work ](merlin.foyer.work ) Chatgpt Plus
-
-### Learning Resource
-- [AI for Beginner - Microsoft](https://microsoft.github.io/AI-For-Beginners/?id=offline-access)
-- [GCP skill boost](https://www.cloudskillsboost.google/journeys/118)
-- [LangChain Book](https://leanpub.com/langchain/read#requirements-for-running-and-modifying-book-examples)
-- [A guidance language for controlling large language models - Microsoft](https://github.com/microsoft/guidance)
-- [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
-- [Practical Deep Learning for Coders - fast.ai](https://course.fast.ai/Lessons/lesson1.html)
 
 ### Other related 
 - [Vertex AI from Google](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)

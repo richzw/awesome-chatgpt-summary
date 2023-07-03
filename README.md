@@ -158,6 +158,17 @@ Collection of awesome tools, demos, and docs for ChatGPT, GPT-3, and GPT-4
 -  Text paraphraser - http://paraphrasingtool.ai
 -  Business ideas - http://amilliondollaridea.com
 - http://tactiq.io — Google Meet、Zoom、MS Teams 和 Webex 会议的实时笔记
+
+### Code-related Tools
+ - [Bito: Code Optimization](http://bito.ai)
+ - [Safurai: Code Security](http://safurai.com)
+ - [Codesquire: Code Search](http://codesquire.ai)
+ - [Blackbox: Code Generation](http://useblackbox.io)
+ - [Sourceai: Code Suggestions](http://sourceai.dev)
+ - [AI-code-reviewer: Code Review](http://ai-code-reviewer.com)
+ - [Supabase: Database Management](http://supabase.com)
+ - [Google Colab Copilot: Code Generation](http://copilot.naklecha.com)
+ - [Programming-helper: Programming Assistance](http://programming-helper.com)
   
 ### Document-related Tools
 - http://chatpdf.com

@@ -159,6 +159,19 @@ Collection of awesome tools, demos, and docs for ChatGPT, GPT-3, and GPT-4
 -  Business ideas - http://amilliondollaridea.com
 - http://tactiq.io — Google Meet、Zoom、MS Teams 和 Webex 会议的实时笔记
 
+### Web Setup Tools
+- http://10web.io
+- http://Durable.co
+- http://Alliai.com
+- http://Subpage.app
+
+### Search Tools
+- http://Paperpal.com
+- http://Beta.monic.ai
+- http://Consensus.app
+- http://Perplexity.ai
+- http://You.com
+
 ### Code-related Tools
  - [Bito: Code Optimization](http://bito.ai)
  - [Safurai: Code Security](http://safurai.com)
@@ -169,6 +182,10 @@ Collection of awesome tools, demos, and docs for ChatGPT, GPT-3, and GPT-4
  - [Supabase: Database Management](http://supabase.com)
  - [Google Colab Copilot: Code Generation](http://copilot.naklecha.com)
  - [Programming-helper: Programming Assistance](http://programming-helper.com)
+ - http://Codium.ai
+ - http://Dora.run/ai
+ - http://Mutable.ai
+ - http://Superagi.com
   
 ### Document-related Tools
 - http://chatpdf.com
@@ -184,6 +201,9 @@ Collection of awesome tools, demos, and docs for ChatGPT, GPT-3, and GPT-4
 - http://pitch.com
 - http://decktopus.com
 - http://slidesai.io
+- http://Simplified.com
+- http://Slidesgo.com
+- http://Sendsteps.com
 
 ### Finance/Investment Tools
 - http://public.com/alpha

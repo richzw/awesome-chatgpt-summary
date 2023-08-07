@@ -158,6 +158,8 @@ Collection of awesome tools, demos, and docs for ChatGPT, GPT-3, and GPT-4
 -  Text paraphraser - http://paraphrasingtool.ai
 -  Business ideas - http://amilliondollaridea.com
 - http://tactiq.io — Google Meet、Zoom、MS Teams 和 Webex 会议的实时笔记
+- https://docus.ai/ - Doctor
+- https://alicent.ai/ - ChatGPT Toolkit
 
 ### Web Setup Tools
 - http://10web.io

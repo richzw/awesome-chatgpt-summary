@@ -188,7 +188,9 @@ Collection of awesome tools, demos, and docs for ChatGPT, GPT-3, and GPT-4
  - http://Dora.run/ai
  - http://Mutable.ai
  - http://Superagi.com
-  
+ - [MetaGPT: The Multi-Agent Framework](https://github.com/geekan/MetaGPT)
+
+   
 ### Document-related Tools
 - http://chatpdf.com
 - http://chatdoc.com
@@ -206,6 +208,7 @@ Collection of awesome tools, demos, and docs for ChatGPT, GPT-3, and GPT-4
 - http://Simplified.com
 - http://Slidesgo.com
 - http://Sendsteps.com
+- AI一键生成Excel公式：[HellAI](https://box123.io/sites/2148.html)
 
 ### Finance/Investment Tools
 - http://public.com/alpha

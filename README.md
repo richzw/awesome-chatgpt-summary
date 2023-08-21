@@ -161,6 +161,14 @@ Collection of awesome tools, demos, and docs for ChatGPT, GPT-3, and GPT-4
 - https://docus.ai/ - Doctor
 - https://alicent.ai/ - ChatGPT Toolkit
 
+### DocGPT
+- 该模型是在 Meta 的 Llama2 基础上进行微调的，拥有高达 70 亿个参数，并经过专业医学对话的训练和优化
+- http://github.com/llSourcell/DoctorGPT
+- https://github.com/camenduru/DoctorGPT-colab
+
+### GPT Tools
+- [Using GPT-4 for content moderation](https://openai.com/blog/using-gpt-4-for-content-moderation) 用于互联网内容审核
+
 ### Web Setup Tools
 - http://10web.io
 - http://Durable.co

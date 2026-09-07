@@ -127,6 +127,7 @@ Collection of awesome tools, demos, and docs for ChatGPT, GPT-3, and GPT-4
 - http://Durable.co - Build websites with AI 
 - http://Stockimg.ai - Create images with AI 
 - http://Kickresume.com - AI resume builder 
+- https://withresumeai.com/ - AI resume builder with free ATS checks (3/day anonymous, 10/day free account); State of ATS 2026 (738 employers; Workday 37.9%) 
 - http://Aivalley.ai - Latest AI Tools & Prompts 
 -  http://Gamma.app - AI presentation generator
 - http://Lovo.ai - AI语音生成器

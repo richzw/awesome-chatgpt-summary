@@ -47,6 +47,7 @@ Collection of awesome tools, demos, and docs for ChatGPT, GPT-3, and GPT-4
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
 - [Glarity](https://chrome.google.com/webstore/detail/chatgpt-glarity-summarize/cmnlolelipjlhfkhpohphpedmkfbobjc) 基于 ChatGPT 和 YouTube 字幕生成视频摘要
 - [Perplexity](https://chrome.google.com/webstore/detail/perplexity-ask-ai/hlgbcneanomplepojfcnclggenpcoldo?hl=zh-CN) Perplexity is a superpower for your curiosity that lets you ask questions or get instant summaries while you browse the internet
+- [Glasp](https://glasp.co/) Shows the transcript of a YouTube video with an AI summary, and highlights web pages and PDFs
 
 ### Access ChatGPT Tools
 - [Serverless Telegram bot](https://github.com/franalgaba/chatgpt-telegram-bot-serverless)

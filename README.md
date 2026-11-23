@@ -44,6 +44,7 @@ Collection of awesome tools, demos, and docs for ChatGPT, GPT-3, and GPT-4
 - [ChatGPT (GPT-3.5-turbo) API Client in Golang](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 
 ### Chrome Extensions
+- [ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) - Free Chrome extension for timed ChatGPT continuation, per-tab controls, and context handoff for long chats.
 - [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf)
 - [Glarity](https://chrome.google.com/webstore/detail/chatgpt-glarity-summarize/cmnlolelipjlhfkhpohphpedmkfbobjc) 基于 ChatGPT 和 YouTube 字幕生成视频摘要
 - [Perplexity](https://chrome.google.com/webstore/detail/perplexity-ask-ai/hlgbcneanomplepojfcnclggenpcoldo?hl=zh-CN) Perplexity is a superpower for your curiosity that lets you ask questions or get instant summaries while you browse the internet

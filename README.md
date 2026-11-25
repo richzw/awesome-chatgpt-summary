@@ -72,6 +72,7 @@ Collection of awesome tools, demos, and docs for ChatGPT, GPT-3, and GPT-4
 
 ### Tools
 - AI 设计 -  http://Uizard.io
+- AI 设计 -  https://kite.new - Kite: ChatGPT、Claude、Cursor 通过 MCP 在团队同一个设计文件里画可编辑图层，可复制为 HTML/React/Tailwind
 - AI 会议 -  http://tldv.io
 - AI 网站 -  http://durable.co
 - AI 提示 -  http://wnr.ai
